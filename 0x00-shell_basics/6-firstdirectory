@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -p /tm/pmy_first_directory
